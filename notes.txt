@@ -3,3 +3,5 @@ This is my notes.txt file!
 Ok, let's write something else in this file to change it since the 'my first commit' commit... 
 
 We're on a roll!   Let's do a third commit!!!!!
+
+Forth commit stuff!   Forth commit stuff! 
